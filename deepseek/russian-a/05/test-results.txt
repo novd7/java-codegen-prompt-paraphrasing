@@ -1,0 +1,23 @@
+FAIL countsCyrillicIgnoringCase — expected [кот: 2\nпёс: 1\n], got []
+FAIL countsEnglishIgnoringCase — expected [apple: 3\n], got []
+FAIL prioritizesFrequency — expected [zoo: 3\nant: 2\n], got []
+FAIL breaksTiesWithinFrequencyGroups — expected [bee: 2\nzoo: 2\nant: 1\n], got []
+FAIL sortsEnglishAlphabetically — expected [ant: 1\nbee: 1\nzoo: 1\n], got []
+FAIL sortsEnglishPrefixes — expected [at: 1\natom: 1\nzoo: 1\n], got []
+FAIL sortsRussianAlphabetically — expected [ель: 1\nёж: 1\nжук: 1\nя: 1\n], got []
+FAIL sortsYoAfterAllYeWords — expected [е: 1\nея: 1\nё: 1\nж: 1\n], got []
+FAIL keepsYeAndYoDistinct — expected [всё: 2\nвсе: 1\n], got []
+FAIL handlesYoInsideWords — expected [еж: 1\nёж: 1\nёл: 1\nжд: 1\n], got []
+FAIL splitsAtDigitsAndPunctuation — expected [a: 2\nb: 2\n], got []
+FAIL splitsAtRepeatedSeparators — expected [кот: 2\nпёс: 1\n], got []
+FAIL splitsAtCurrencySymbol — expected [cat: 1\ndog: 1\n], got []
+FAIL acceptsSingleLetter — expected [ё: 1\n], got []
+FAIL acceptsSingleWord — expected [java: 1\n], got []
+PASS handlesEmptyLine
+PASS handlesWhitespaceOnly
+PASS handlesDigitsAndSymbolsOnly
+FAIL countsManyOccurrences — expected [word: 1000\nend: 1\n], got []
+FAIL readsOnlyFirstLine — expected [first: 1\n], got []
+FAIL acceptsLineWithoutFinalNewline — expected [кот: 1\n], got []
+FAIL acceptsWindowsLineEndings — expected [first: 1\n], got []
+3/22 passed

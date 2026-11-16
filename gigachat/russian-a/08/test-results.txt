@@ -1,0 +1,177 @@
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS countsCyrillicIgnoringCase
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS countsEnglishIgnoringCase
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS prioritizesFrequency
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS breaksTiesWithinFrequencyGroups
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS sortsEnglishAlphabetically
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS sortsEnglishPrefixes
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+FAIL sortsRussianAlphabetically — expected [ель: 1\nёж: 1\nжук: 1\nя: 1\n], got [ёж: 1\nель: 1\nжук: 1\nя: 1\n]
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+FAIL sortsYoAfterAllYeWords — expected [е: 1\nея: 1\nё: 1\nж: 1\n], got [ё: 1\nе: 1\nея: 1\nж: 1\n]
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS keepsYeAndYoDistinct
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS handlesYoInsideWords
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS splitsAtDigitsAndPunctuation
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS splitsAtRepeatedSeparators
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS splitsAtCurrencySymbol
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS acceptsSingleLetter
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS acceptsSingleWord
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS handlesEmptyLine
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS handlesWhitespaceOnly
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS handlesDigitsAndSymbolsOnly
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS countsManyOccurrences
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS readsOnlyFirstLine
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS acceptsLineWithoutFinalNewline
+russian-a/08/Main.java:39: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru"));
+                                                   ^
+russian-a/08/Main.java:42: warning: [deprecation] Locale(String) in Locale has been deprecated
+        Collator enCollator = Collator.getInstance(new Locale("en"));
+                                                   ^
+2 warnings
+PASS acceptsWindowsLineEndings
+20/22 passed

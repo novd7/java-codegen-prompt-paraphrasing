@@ -1,0 +1,111 @@
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS countsCyrillicIgnoringCase
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS countsEnglishIgnoringCase
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS prioritizesFrequency
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS breaksTiesWithinFrequencyGroups
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS sortsEnglishAlphabetically
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS sortsEnglishPrefixes
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+FAIL sortsRussianAlphabetically — expected [ель: 1\nёж: 1\nжук: 1\nя: 1\n], got [ёж: 1\nель: 1\nжук: 1\nя: 1\n]
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+FAIL sortsYoAfterAllYeWords — expected [е: 1\nея: 1\nё: 1\nж: 1\n], got [е: 1\nё: 1\nея: 1\nж: 1\n]
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS keepsYeAndYoDistinct
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS handlesYoInsideWords
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS splitsAtDigitsAndPunctuation
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS splitsAtRepeatedSeparators
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS splitsAtCurrencySymbol
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS acceptsSingleLetter
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS acceptsSingleWord
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS handlesEmptyLine
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS handlesWhitespaceOnly
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS handlesDigitsAndSymbolsOnly
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS countsManyOccurrences
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS readsOnlyFirstLine
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS acceptsLineWithoutFinalNewline
+deepseek/english-a/10/WordFrequency.java:46: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+                ? Collator.getInstance(new Locale("ru", "RU"))
+                                       ^
+1 warning
+PASS acceptsWindowsLineEndings
+20/22 passed

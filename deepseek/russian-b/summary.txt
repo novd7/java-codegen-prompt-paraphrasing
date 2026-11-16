@@ -1,0 +1,11 @@
+deepseek/russian-b
+01 - 22/22 passed
+02 - 19/22 passed
+03 - 22/22 passed
+04 - 21/22 passed
+05 - 20/22 passed
+06 - 22/22 passed
+07 - 14/22 passed
+08 - 22/22 passed
+09 - 22/22 passed
+10 - 22/22 passed

@@ -1,0 +1,111 @@
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS countsCyrillicIgnoringCase
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS countsEnglishIgnoringCase
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS prioritizesFrequency
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS breaksTiesWithinFrequencyGroups
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS sortsEnglishAlphabetically
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS sortsEnglishPrefixes
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+FAIL sortsRussianAlphabetically — expected [ель: 1\nёж: 1\nжук: 1\nя: 1\n], got [ёж: 1\nель: 1\nжук: 1\nя: 1\n]
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+FAIL sortsYoAfterAllYeWords — expected [е: 1\nея: 1\nё: 1\nж: 1\n], got [е: 1\nё: 1\nея: 1\nж: 1\n]
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS keepsYeAndYoDistinct
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesYoInsideWords
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS splitsAtDigitsAndPunctuation
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS splitsAtRepeatedSeparators
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS splitsAtCurrencySymbol
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsSingleLetter
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsSingleWord
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesEmptyLine
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesWhitespaceOnly
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesDigitsAndSymbolsOnly
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS countsManyOccurrences
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS readsOnlyFirstLine
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsLineWithoutFinalNewline
+russian-b/05/Main.java:38: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsWindowsLineEndings
+20/22 passed

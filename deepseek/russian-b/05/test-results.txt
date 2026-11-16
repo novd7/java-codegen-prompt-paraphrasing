@@ -1,0 +1,111 @@
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS countsCyrillicIgnoringCase
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS countsEnglishIgnoringCase
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS prioritizesFrequency
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS breaksTiesWithinFrequencyGroups
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS sortsEnglishAlphabetically
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS sortsEnglishPrefixes
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+FAIL sortsRussianAlphabetically — expected [ель: 1\nёж: 1\nжук: 1\nя: 1\n], got [ёж: 1\nель: 1\nжук: 1\nя: 1\n]
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+FAIL sortsYoAfterAllYeWords — expected [е: 1\nея: 1\nё: 1\nж: 1\n], got [е: 1\nё: 1\nея: 1\nж: 1\n]
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS keepsYeAndYoDistinct
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesYoInsideWords
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS splitsAtDigitsAndPunctuation
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS splitsAtRepeatedSeparators
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS splitsAtCurrencySymbol
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsSingleLetter
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsSingleWord
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesEmptyLine
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesWhitespaceOnly
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS handlesDigitsAndSymbolsOnly
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS countsManyOccurrences
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS readsOnlyFirstLine
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsLineWithoutFinalNewline
+deepseek/russian-b/05/WordCount.java:53: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+        Collator ruCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                   ^
+1 warning
+PASS acceptsWindowsLineEndings
+20/22 passed

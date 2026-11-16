@@ -1,0 +1,177 @@
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL countsCyrillicIgnoringCase — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL countsEnglishIgnoringCase — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL prioritizesFrequency — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL breaksTiesWithinFrequencyGroups — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL sortsEnglishAlphabetically — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL sortsEnglishPrefixes — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL sortsRussianAlphabetically — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL sortsYoAfterAllYeWords — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL keepsYeAndYoDistinct — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL handlesYoInsideWords — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL splitsAtDigitsAndPunctuation — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL splitsAtRepeatedSeparators — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL splitsAtCurrencySymbol — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL acceptsSingleLetter — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL acceptsSingleWord — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL handlesEmptyLine — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL handlesWhitespaceOnly — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL handlesDigitsAndSymbolsOnly — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL countsManyOccurrences — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL readsOnlyFirstLine — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL acceptsLineWithoutFinalNewline — exit code 1
+russian-b/07/Main.java:51: error: cannot find symbol
+            cs = Console.charset();
+                 ^
+  symbol:   variable Console
+  location: class Main
+1 error
+error: compilation failed
+FAIL acceptsWindowsLineEndings — exit code 1
+0/22 passed

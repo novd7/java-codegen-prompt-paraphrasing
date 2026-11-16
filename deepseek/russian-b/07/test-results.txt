@@ -1,0 +1,23 @@
+PASS countsCyrillicIgnoringCase
+PASS countsEnglishIgnoringCase
+PASS prioritizesFrequency
+FAIL breaksTiesWithinFrequencyGroups — expected [bee: 2\nzoo: 2\nant: 1\n], got [zoo: 2\nbee: 2\nant: 1\n]
+FAIL sortsEnglishAlphabetically — expected [ant: 1\nbee: 1\nzoo: 1\n], got [zoo: 1\nbee: 1\nant: 1\n]
+FAIL sortsEnglishPrefixes — expected [at: 1\natom: 1\nzoo: 1\n], got [zoo: 1\natom: 1\nat: 1\n]
+FAIL sortsRussianAlphabetically — expected [ель: 1\nёж: 1\nжук: 1\nя: 1\n], got [я: 1\nжук: 1\nёж: 1\nель: 1\n]
+FAIL sortsYoAfterAllYeWords — expected [е: 1\nея: 1\nё: 1\nж: 1\n], got [ж: 1\nё: 1\nея: 1\nе: 1\n]
+PASS keepsYeAndYoDistinct
+FAIL handlesYoInsideWords — expected [еж: 1\nёж: 1\nёл: 1\nжд: 1\n], got [жд: 1\nёл: 1\nёж: 1\nеж: 1\n]
+FAIL splitsAtDigitsAndPunctuation — expected [a: 2\nb: 2\n], got [b: 2\na: 2\n]
+PASS splitsAtRepeatedSeparators
+FAIL splitsAtCurrencySymbol — expected [cat: 1\ndog: 1\n], got [dog: 1\ncat: 1\n]
+PASS acceptsSingleLetter
+PASS acceptsSingleWord
+PASS handlesEmptyLine
+PASS handlesWhitespaceOnly
+PASS handlesDigitsAndSymbolsOnly
+PASS countsManyOccurrences
+PASS readsOnlyFirstLine
+PASS acceptsLineWithoutFinalNewline
+PASS acceptsWindowsLineEndings
+14/22 passed

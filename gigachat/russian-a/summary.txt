@@ -1,0 +1,11 @@
+russian-a
+01 - 19/22 passed
+02 - 0/22 passed (ошибка компиляции)
+03 - 0/22 passed (ошибка компиляции)
+04 - 0/22 passed (ошибка компиляции)
+05 - 19/22 passed
+06 - 19/22 passed
+07 - 22/22 passed
+08 - 20/22 passed
+09 - 19/22 passed
+10 - 19/22 passed

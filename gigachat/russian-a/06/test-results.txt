@@ -1,0 +1,111 @@
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS countsCyrillicIgnoringCase
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS countsEnglishIgnoringCase
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS prioritizesFrequency
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS breaksTiesWithinFrequencyGroups
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS sortsEnglishAlphabetically
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS sortsEnglishPrefixes
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+FAIL sortsRussianAlphabetically — expected [ель: 1\nёж: 1\nжук: 1\nя: 1\n], got [ёж: 1\nель: 1\nжук: 1\nя: 1\n]
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+FAIL sortsYoAfterAllYeWords — expected [е: 1\nея: 1\nё: 1\nж: 1\n], got [ё: 1\nе: 1\nея: 1\nж: 1\n]
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS keepsYeAndYoDistinct
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+FAIL handlesYoInsideWords — expected [еж: 1\nёж: 1\nёл: 1\nжд: 1\n], got [ёж: 1\nеж: 1\nёл: 1\nжд: 1\n]
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS splitsAtDigitsAndPunctuation
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS splitsAtRepeatedSeparators
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS splitsAtCurrencySymbol
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS acceptsSingleLetter
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS acceptsSingleWord
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS handlesEmptyLine
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS handlesWhitespaceOnly
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS handlesDigitsAndSymbolsOnly
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS countsManyOccurrences
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS readsOnlyFirstLine
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS acceptsLineWithoutFinalNewline
+russian-a/06/WordCounter.java:64: warning: [deprecation] Locale(String,String) in Locale has been deprecated
+            Collator russianCollator = Collator.getInstance(new Locale("ru", "RU"));
+                                                            ^
+1 warning
+PASS acceptsWindowsLineEndings
+19/22 passed

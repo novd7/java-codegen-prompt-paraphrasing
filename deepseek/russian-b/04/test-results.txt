@@ -1,0 +1,23 @@
+PASS countsCyrillicIgnoringCase
+PASS countsEnglishIgnoringCase
+PASS prioritizesFrequency
+PASS breaksTiesWithinFrequencyGroups
+PASS sortsEnglishAlphabetically
+PASS sortsEnglishPrefixes
+PASS sortsRussianAlphabetically
+PASS sortsYoAfterAllYeWords
+PASS keepsYeAndYoDistinct
+FAIL handlesYoInsideWords — expected [еж: 1\nёж: 1\nёл: 1\nжд: 1\n], got [еж: 1\nжд: 1\nёж: 1\nёл: 1\n]
+PASS splitsAtDigitsAndPunctuation
+PASS splitsAtRepeatedSeparators
+PASS splitsAtCurrencySymbol
+PASS acceptsSingleLetter
+PASS acceptsSingleWord
+PASS handlesEmptyLine
+PASS handlesWhitespaceOnly
+PASS handlesDigitsAndSymbolsOnly
+PASS countsManyOccurrences
+PASS readsOnlyFirstLine
+PASS acceptsLineWithoutFinalNewline
+PASS acceptsWindowsLineEndings
+21/22 passed
